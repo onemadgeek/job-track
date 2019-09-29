@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/job-track/static/css/main.cfda8877.chunk.css",
+    "main.js": "/job-track/static/js/main.b30fd2f1.chunk.js",
+    "main.js.map": "/job-track/static/js/main.b30fd2f1.chunk.js.map",
+    "runtime~main.js": "/job-track/static/js/runtime~main.13caacdd.js",
+    "runtime~main.js.map": "/job-track/static/js/runtime~main.13caacdd.js.map",
+    "static/css/2.266e55a5.chunk.css": "/job-track/static/css/2.266e55a5.chunk.css",
+    "static/js/2.e4cf1b63.chunk.js": "/job-track/static/js/2.e4cf1b63.chunk.js",
+    "static/js/2.e4cf1b63.chunk.js.map": "/job-track/static/js/2.e4cf1b63.chunk.js.map",
+    "index.html": "/job-track/index.html",
+    "precache-manifest.2e3e65f684ac87816b6f4e464766a128.js": "/job-track/precache-manifest.2e3e65f684ac87816b6f4e464766a128.js",
+    "service-worker.js": "/job-track/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/job-track/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.cfda8877.chunk.css.map": "/job-track/static/css/main.cfda8877.chunk.css.map"
+  }
+}
